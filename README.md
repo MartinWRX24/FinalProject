@@ -9,6 +9,8 @@ way to discover the average and grade letters to finding average scores on test.
 3. Who should make it?
 Any programmers or people that need to find and average score for their projects/classrooms.
 
+Link to Github
+https://github.com/MartinWRX24/FinalProject.git
 
 
 
