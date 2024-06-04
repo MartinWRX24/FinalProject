@@ -1,0 +1,49 @@
+Martin Navarro Negrete 
+5-18-2024
+CIS11 Course Project Part 1: Documenting the Project
+Fill in the following areas (purple).
+Introduction
+1.1	Purpose
+The purpose of this LC3 program is to calculate and the display the maximum, the minimum, and the average grades of five test scores entered by the person using the program along with their corresponding grades.
+1.2	Intended Audience and Users
+The primary audience/user of the program will be educators, students, or anyone who needs to find average test scores.
+1.3	Product Scope
+The intention of this LC3 program is a tool for all users that need calculating and analyzing test scores, supporting the assessment performances.
+1.4	 Reference  
+Source Documents for the Program Requirements and Specification
+The source documents will be the LC3 programming assembly language.
+
+2. Overall Description
+2.1 Product Perspective
+The objective of this program is to include the statistics from the test scores and providing letter grades on the scores that range. The data will be used for the score’s integer.
+
+2.2	Product Functions
+The overall description of functionality:
+Inputting test scores, calculating the max, min, and average scores, determine the grades based on the average, and showing the calculated stats and grades for the user. 
+Technical functionality
+Technical functionality implements operations and subroutines for arithmetic calculations, conditional operations, data movement, stack management, and input/output operations.
+
+2.3	User Classes and Characteristics
+The user classes and characteristics are for both technical personnel, responsible for the implementation of the program, and for the primary audience using the program. One looks for errors while the other uses the code for testing.
+2.4	 Operating Environment
+The app operates on the LC3 simulator. The app will include and assembly language development that will be compatible with the LC3 program or code. The user can use any system that operates a LC3 simulator.
+2.5	Design and Implementation Constraints
+The app may be limited to the precision of the integer arithmetic operations.
+2.6	Assumptions and Dependencies
+The app will assume that the users are used to the process of entering the scores and the results. It will rely on the program simulator for the input/output and program results.
+3. External Interface Requirements
+3.1	User Interfaces
+The users will interact with the LC3 program through console interfaces, when they input the test scores, and view the grades and scores.
+3.2	Hardware Interfaces
+The program hardware interfaces will be what LC3 program offers to the code.
+3.3	Software Interfaces
+The LC3 program will require a system to be able to run the code through a LC3 program website or program that uses LC3.
+3.4	Communications Interface
+The application does not require internet, web, or network connectivity.
+  
+4. Detailed Description of Functional requirements
+4.1     Type of Requirement (summarize from Section 2.2)
+The functions being in this program are input that will obtain the scores from the user, calculation which will calculate the max, min, and average scores, conversion which will determine the grades by their score, and output which shows the user the grades and the calculated statistics.
+4.2 Performance requirements
+ The expected performance required is for the program to show calculations with the grades and statistics to provide close to accurate response. 
+ 
